@@ -3,7 +3,7 @@ role: Student of Physics
 avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
-  - Theoretical physics.
+  - Theoretical physics
 social: []
 organizations:
   - name: University of Science and Technology of China
