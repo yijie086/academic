@@ -1,5 +1,5 @@
 ---
-title: Liner algebra and analytic geometry
+title: note of liner algebra and analytic geometry
 date: 2021-04-13T08:27:28.550Z
 summary: ""
 draft: false
