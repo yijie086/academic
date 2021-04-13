@@ -1,6 +1,6 @@
 ---
 role: Student of Physics
-avatar_filename: 7a9fbc7e-f300-4fe6-8eee-e05b147fca45.jpeg
+avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
   - Theoretical physics.
