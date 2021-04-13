@@ -25,10 +25,8 @@ date_format: Jan 2006
 item:
 - date_start: "2018-10-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  organization: USTC
+  title: Silver Award for Outstanding Student Scholarship
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
