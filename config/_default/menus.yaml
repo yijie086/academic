@@ -10,7 +10,7 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 20
-  - name: My notes
+  - name: Posts
     url: '#posts'
     weight: 30
   - name: Publications
