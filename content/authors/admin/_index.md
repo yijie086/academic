@@ -6,7 +6,7 @@ interests:
   - Theoretical physics.
 social: []
 organizations:
-  - name: University of Science and Technology fo China
+  - name: University of Science and Technology of China
     url: https://www.ustc.edu.cn
 education:
   courses:
