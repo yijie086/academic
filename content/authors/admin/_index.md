@@ -19,7 +19,7 @@ education:
 superuser: true
 highlight_name: false
 title: Yijie Wang
-email: yjwang
+email: ""
 ---
 My name is Yijie Wang(王一杰).
 
