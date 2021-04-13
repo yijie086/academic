@@ -31,12 +31,13 @@ item:
   description: ""
   organization: CPS
   title: Team first prize for China Undergraduate Physics Tournament(National)
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- date_start: "2020-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  organization: USTC
+  title: Scholarship for Yan Jici Sci-Tech Elite Class of Physics
+- date_start: "2019-09-01"
+  description: ""
+  organization: USTC
+  title: Scholarship for Yan Jici Sci-Tech Elite Class of Physics
+  
 ---
