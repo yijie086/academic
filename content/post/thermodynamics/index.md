@@ -15,4 +15,4 @@ This is my note for thermodynamics class.
 
 It's a big file, please wait patiently.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "<http://home.ustc.edu.cn/~soliton001108/note/thermodynamics.pdf>" "newtab" >}}note{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my note: [<http://home.ustc.edu.cn/~soliton001108/note/thermodynamics.pdf>](<http://home.ustc.edu.cn/~soliton001108/note/thermodynamics.pdf>)
