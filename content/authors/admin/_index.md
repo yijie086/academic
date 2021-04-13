@@ -23,7 +23,7 @@ email: ""
 ---
 My name is Yijie Wang(王一杰).
 
-An undergraduate student in USTC(University of Science and Technology fo China).
+An undergraduate student in USTC(University of Science and Technology of China).
 
 A student in the School of Physical Sciences.
 
