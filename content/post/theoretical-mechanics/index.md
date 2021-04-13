@@ -1,5 +1,5 @@
 ---
-title: Theoretical mechanics
+title: Note of theoretical mechanics
 date: 2021-04-13T08:10:32.026Z
 summary: ""
 draft: false
