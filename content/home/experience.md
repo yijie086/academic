@@ -36,6 +36,6 @@ experience:
     location: California
     date_start: '2016-09-01'
     date_end: '2019-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Got 696(Top 0.05%) in National College Entrance Examination.
 ---
 
