@@ -1,5 +1,5 @@
 ---
-title: Complex function
+title: Note of complex function
 date: 2021-04-13T08:34:06.714Z
 summary: ""
 draft: false
