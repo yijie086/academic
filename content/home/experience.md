@@ -30,8 +30,8 @@ experience:
     date_end: ''
     description: 'Learning physics'
         
-  - title: Professor
-    company: University X
+  - title: Student
+    company: Chengdu Shude High School
     company_url: ''
     location: California
     date_start: '2016-01-01'
