@@ -1,5 +1,5 @@
 ---
-title: Electronic circuitry
+title: Note of electronic circuitry
 date: 2021-04-13T08:31:32.894Z
 summary: ""
 draft: false
