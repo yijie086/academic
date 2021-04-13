@@ -12,13 +12,13 @@ experience:
     location: Hefei
     date_start: 2019-09-01
     date_end: ""
-    description: Learning physics
+    description: 'Learning physics'
   - title: Student
     company: Chengdu Shude High School
     company_url: ""
     location: Chengdu
     date_start: 2016-09-01
     date_end: 2019-7-01
-    description: null
+    description: ''
 widget_id: experience
 ---
