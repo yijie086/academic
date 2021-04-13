@@ -1,5 +1,5 @@
 ---
-title: Thermodynamics
+title: Note of thermodynamics
 date: 2021-04-13T07:58:44.775Z
 summary: ""
 draft: false
