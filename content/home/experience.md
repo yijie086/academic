@@ -28,12 +28,7 @@ experience:
     location: Hefei
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 'Learning physics'
         
   - title: Professor
     company: University X
