@@ -1,5 +1,5 @@
 ---
-title: Probability and statistics
+title: Note of probability and statistics
 date: 2021-04-13T08:24:34.055Z
 summary: ""
 draft: false
