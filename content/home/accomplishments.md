@@ -39,5 +39,8 @@ item:
   description: ""
   organization: USTC
   title: Scholarship for Yan Jici Sci-Tech Elite Class of Physics
-  
+- date_start: "2019-09-01"
+  description: ""
+  organization: USTC
+  title: Gold Award for  Outstanding Freshman Scholarship
 ---
