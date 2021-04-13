@@ -34,8 +34,8 @@ experience:
     company: Chengdu Shude High School
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2016-09-01'
+    date_end: '2019-7-01'
+    description: ''
 ---
 
