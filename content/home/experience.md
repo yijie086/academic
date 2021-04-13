@@ -36,6 +36,6 @@ experience:
     location: California
     date_start: '2016-09-01'
     date_end: '2019-7-01'
-    description: ''
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
 
