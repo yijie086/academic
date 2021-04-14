@@ -33,7 +33,7 @@ experience:
   - title: Student
     company: Chengdu Shude High School
     company_url: ''
-    location: California
+    location: Chengdu
     date_start: '2016-09-01'
     date_end: '2019-07-01'
     description: Got 696(Top 0.05%) in National College Entrance Examination.
