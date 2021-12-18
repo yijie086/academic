@@ -1,6 +1,6 @@
 I am the teaching assistant for the following courses:
 
-# Theoreticial Mechanics(2021 Fall)
+# Theoreticial Mechanics A (2021 Fall)
 
 Instructor: Prof. Haijun Pan
 
