@@ -27,6 +27,10 @@ item:
   description: ""
   organization: Ministry of Education of the People's Republic of China
   title: National Scholarship
+- date_start: "2021-09-01"
+  description: ""
+  organization: USTC
+  title: Scholarship for Yan Jici Sci-Tech Elite Class of Physics
 - date_start: "2020-10-01"
   description: ""
   organization: USTC
