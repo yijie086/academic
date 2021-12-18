@@ -1,16 +1,11 @@
+I am the teaching assistant for the following courses:
 ---
-title: Courses
+title: Theoreticial Mechanics
 type: page
 
 header:
-  caption: ""
+  caption: "Theoreticial Mechanic"
   image: ""
 ---
 
-I teach the following courses:
 
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
