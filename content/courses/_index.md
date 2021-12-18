@@ -1,11 +1,5 @@
 I am the teaching assistant for the following courses:
----
-title: Theoreticial Mechanics
-type: page
+#Theoreticial Mechanics(2021 Fall)
 
-header:
-  caption: "Theoreticial Mechanic"
-  image: ""
----
 
 
