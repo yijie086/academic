@@ -10,4 +10,4 @@ Textbook:
 - Classical Mechanics, H. Goldstein, Addison-Wesley
 - Mechanics: Volume 1, L.D. Landau and E.M. Lifshitz, Butterworth-Heinemann
 
-
+[Homepage of Theoretical Mechanics A](http://staff.ustc.edu.cn/~phj/mechanics/mechanics.htm)
