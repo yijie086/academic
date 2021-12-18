@@ -23,6 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_start: "2021-12-17"
+  description: ""
+  organization: Ministry of Education of the People's Republic of China
+  title: National Scholarship
 - date_start: "2020-10-01"
   description: ""
   organization: USTC
