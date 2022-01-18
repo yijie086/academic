@@ -1,5 +1,20 @@
 I am the teaching assistant for the following courses:
 
+# Electrodynamics (2022 Spring)
+
+Instructor: Prof. Haijun Pan
+
+A course aims to further understanding of electromagnetic field, covering Maxwell’s equations, conservation laws, electrostatics, magnetostatics, wave propagation in media, retarded potentials and radiation, scattering, and special relativity.
+
+Textbook:
+
+- 《电磁学与电动力学》下册 第二版 胡友秋，程福臻等 科学出版社，2019年11月
+- L. D. Landau and E. M. Lifshitz. The Classical Theory of Fields
+- Griffiths, David J. Introduction to Electrodynamics
+- Jackson, John D. Classical Electrodynamics
+
+[Homepage of Electrodynamics](http://staff.ustc.edu.cn/~phj/ED/ED.htm)
+
 # Theoreticial Mechanics A (2021 Fall)
 
 Instructor: Prof. Haijun Pan
