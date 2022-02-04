@@ -4,6 +4,7 @@ avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
   - Theoretical physics
+  - Numerical simulation
 social: []
 organizations:
   - name: University of Science and Technology of China
@@ -28,5 +29,3 @@ An undergraduate student in USTC(University of Science and Technology of China).
 A student in the School of Physical Sciences.
 
 A member of Yan Jici Sci-Tech Elite Class of Physics.
-
-A person who is interested in the fundamental physics.
