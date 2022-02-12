@@ -3,7 +3,9 @@ role: Student of Physics
 avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
+  - Gravitation wave
   - Theoretical physics
+  - Particle physics
   - Numerical simulation
 social: []
 organizations:
