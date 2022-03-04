@@ -4,6 +4,7 @@ avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
   - Gravitation wave
+  - MuIC
   - Theoretical physics
   - Particle physics
   - Numerical simulation
