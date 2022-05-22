@@ -23,7 +23,7 @@ twitter: ''
 email: "yjwang@mail.ustc.edu.cn"
 contact_links:
     - icon: envelope
-      icon_pack: fab
+      icon_pack: fas
       name: yw165@rice.edu
       link: 'yw165@rice.edu'
 phone: +86 15228931642
