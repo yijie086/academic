@@ -28,7 +28,11 @@ address:
   postcode: '230026'
   country: China
   country_code: CN
-email: "yjwang@mail.ustc.edu.cn"
+contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: yjwang@mail.ustc.edu.cn
+      link: 'yjwang@mail.ustc.edu.cn'
 contact_links:
     - icon: envelope
       icon_pack: fas
