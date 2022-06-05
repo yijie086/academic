@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 
 experience:
-- title: Undergraduate Student
+- title: Student
     company: USTC
     company_url: ''
     location: Hefei
@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: 'Learning physics, majoring in theoretical physics.'
         
-  - title: Senior High Student
+  - title: Student
     company: Chengdu Shude High School
     company_url: ''
     location: Chengdu
