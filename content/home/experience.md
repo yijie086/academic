@@ -25,6 +25,14 @@ experience:
     date_end: '2022-12-30'
     description: 'Visiting student.'
     
+  - title: 'Teaching Assistant for Theoretical Mechanics'
+    company: USTC
+    company_url: ''
+    location: Hefei
+    date_start: '2021-09-01'
+    date_end: '2022-01-10'
+    description: ''
+    
   - title: 'Undergraduate Student'
     company: USTC
     company_url: ''
