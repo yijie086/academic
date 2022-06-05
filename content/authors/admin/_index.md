@@ -31,4 +31,4 @@ A student in the School of Physical Sciences.
 
 A member of Yan Jici Sci-Tech Elite Class of Physics.
 
-My [CV](https://drive.google.com/file/d/1o_V4gKk4LyCqNTHi1VHvhgHe5Oo6Xpq9/view?usp=sharing)
+For futher information about my research experience, please see my [CV](https://drive.google.com/file/d/1o_V4gKk4LyCqNTHi1VHvhgHe5Oo6Xpq9/view?usp=sharing).
