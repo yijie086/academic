@@ -25,7 +25,7 @@ experience:
     date_end: ''
     description: 'Learning physics, majoring in theoretical physics.'
 
-  - title: Student
+  - title: Senior High Student
     company: Chengdu Shude High School
     company_url: ''
     location: Chengdu
