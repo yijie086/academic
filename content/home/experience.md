@@ -24,7 +24,6 @@ date_format: Jan 2006
 
 
 experience:
-
 - title: 'Visiting Student'
     company: 'Rice University'
     company_url: ''
