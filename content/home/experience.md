@@ -24,22 +24,6 @@ experience:
     date_start: '2022-08-15'
     date_end: '2022-12-30'
     description: 'Visiting student.'
- 
-  - title: 'Teaching Assistant for Electrodynamics'
-    company: USTC
-    company_url: ''
-    location: Hefei
-    date_start: '2022-02-01'
-    date_end: '2022-6-25'
-    description: 'Advisor: Haijun Pan.'
- 
-  - title: 'Teaching Assistant for Theoretical Mechanics'
-    company: USTC
-    company_url: ''
-    location: Hefei
-    date_start: '2021-09-01'
-    date_end: '2022-1-10'
-    description: 'Advisor: Haijun Pan.'
     
   - title: 'Undergraduate Student'
     company: USTC
