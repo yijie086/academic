@@ -33,8 +33,23 @@ experience:
     date_end: '2022-12-30'
     description: 'Visting non-degree student.'
 
+- title: Teaching Assistant for Electrodynamics
+    company: USTC
+    company_url: ''
+    location: Hefei
+    date_start: '2022-02-01'
+    date_end: '2022-6-25'
+    description: 'Learning physics, majoring in theoretical physics.'
 
-- title: Student
+- title: Teaching Assistant for Theoretical Mechanics
+    company: USTC
+    company_url: ''
+    location: Hefei
+    date_start: '2021-09-01'
+    date_end: '2022-1-10'
+    description: 'Learning physics, majoring in theoretical physics.'
+
+- title: Undergraduate Student
     company: USTC
     company_url: ''
     location: Hefei
@@ -42,7 +57,7 @@ experience:
     date_end: ''
     description: 'Learning physics, majoring in theoretical physics.'
         
-  - title: Student
+  - title: Senior High Student
     company: Chengdu Shude High School
     company_url: ''
     location: Chengdu
