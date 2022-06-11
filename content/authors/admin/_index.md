@@ -7,6 +7,7 @@ interests:
   - Theoretical physics
   - Particle physics
   - Numerical simulation
+  - I have a wide sesearch interests!
 social: []
 organizations:
   - name: University of Science and Technology of China
