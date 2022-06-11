@@ -3,6 +3,7 @@ role: Student of Physics
 avatar_filename: avatar.jpg
 bio: My research interest is theoretical physics.
 interests:
+  - High energy physics
   - Theoretical physics
   - Particle physics
   - Numerical simulation
