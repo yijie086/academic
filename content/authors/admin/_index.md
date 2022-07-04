@@ -36,13 +36,7 @@ A member of Yan Jici Sci-Tech Elite Class of Physics.
 
 For futher information about my research experience, please see my [CV](https://drive.google.com/file/d/1o_V4gKk4LyCqNTHi1VHvhgHe5Oo6Xpq9/view?usp=sharing).
 
-### Standardized test
-
-TOEFL iBT : 108=29 Reading + 30 Listening + 22 Speaking + 27 Writing.
-
-TOEFL iBT (My best) : 109=30 Reading + 30 Listening + 22 Speaking + 27 Writing.
-
-## My wishes
+### My wishes
 
 Since ancient times, sages (such as Aristotle in ancient Greece, and Mozi in ancient China) have tirelessly searched for a unified theory that can describe the world. Modern science originated from Galileo, whose great work pioneered the world of classical physics. After that, Isaac Newton, the master, gave the three laws of classical physics. Since then, the building of classical physics has gained a solid foundation. In the last century, physics ushered in an unprecedented revolution. Albert Einstein's general theory of relativity has allowed us to re-understand space and time, and quantum mechanics has also revealed the laws of the microscopic world on a deeper level. People began to re-examine physics, from deeper symmetries, and a new and beautiful method was proposed -- Yang-Mills gauge field theory. In this century, the establishment and improvement of the Standard Model have brought people's understanding of physics to an unprecedented height. However, there are still many challenges and opportunities in physics, such as the recent W-boson mass problem and the muon magnetic moment problem, which have raised new challenges for the seemingly perfect Standard Model. Will the Standard Model need a patch, or will everything be upended, as it was at the beginning of the last century? let us wait and see.
 
@@ -52,9 +46,15 @@ Fortunately, the measurement of gravitational waves by LIGO in 2017 confirmed th
 
 On the eve of this change in physics, I hope that I can engage in experimental and theoretical research in high-energy physics. There are still many challenges to be solved in high-energy physics. I hope to continue to challenge the grand unified theory. This is my ultimate purpose in life. There is a long way to go, and I will try my best to search for it. (The last sentence is an ancient Chinese poem: 路漫漫其修远兮，吾将上下而求索。)
 
-## Quote
+### Quote
 
 My favorite quote right now is:
 
 Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.  
                                                           --Albus Percival Wulfric Brian Dumbledore
+                                                          
+### Standardized test
+
+TOEFL iBT : 108=29 Reading + 30 Listening + 22 Speaking + 27 Writing.
+
+TOEFL iBT (My best) : 109=30 Reading + 30 Listening + 22 Speaking + 27 Writing.
