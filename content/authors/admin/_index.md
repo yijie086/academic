@@ -6,6 +6,7 @@ interests:
   - High energy physics
   - Theoretical physics
   - Particle physics
+  - Gravity Wave
   - Numerical simulation
   - My research interests are broad!
 social: []
