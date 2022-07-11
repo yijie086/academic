@@ -18,7 +18,7 @@ As the general person in charge, I coordinated and organized this competition in
 
 The picture shows me doing pre-competition training for the contestants.
 
-<img src="img_3225.jpg" alt="s" style="zoom:100%;" />
+<img src="img_3225.jpg" alt="s" style="zoom:31%;" />
 
 **The school reports are as follows：**
 
