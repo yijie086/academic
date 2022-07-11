@@ -8,7 +8,7 @@ authors: []
 image:
   filename: img_3225.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 **Duration: 11/03/2020-04/05/2021**
 
