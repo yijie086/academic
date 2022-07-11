@@ -3,12 +3,12 @@ title: USTC-CUPT intramural competition
 date: 2020-11-03T06:00:47.575Z
 summary: ""
 draft: false
-featured: true
+featured: false
 authors: []
 image:
   filename: ""
-  focal_point: Smart
-  preview_only: true
+  focal_point: ""
+  preview_only: false
 ---
 **Duration: 11/03/2020-04/05/2021**
 
