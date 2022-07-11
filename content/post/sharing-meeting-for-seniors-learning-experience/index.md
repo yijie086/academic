@@ -24,4 +24,4 @@ Finally, Wang Yijie, a 2019 undergraduate, shared his experience. He mentioned t
 
 **For details of my speech (in Chinese), please refer to this link: [My speech](https://mp.weixin.qq.com/s/bFfkzOJNhIfW3ALVWG1Fnw).**
 
-<img src="img_6172.jpg" alt="s" style="zoom:30%;" />
+<img src="img_6172.jpg" alt="s" style="zoom:50%;" />
