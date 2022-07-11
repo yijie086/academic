@@ -1,7 +1,7 @@
 ---
 role: Student of Physics
 avatar_filename: avatar.jpg
-bio: My research interest is theoretical physics.
+bio: Phyiscs is interesting!
 interests:
   - High energy physics
   - Theoretical physics
