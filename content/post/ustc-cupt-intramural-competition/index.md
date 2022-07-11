@@ -10,6 +10,8 @@ image:
   focal_point: ""
   preview_only: false
 ---
+**Duration: 11/03/2020-04/05/2021**
+
 I hosted the USTC-UPT intramural competition and conducted on-campus publicity.
 
 As the general person in charge, I coordinated and organized this competition in an all-round way.
