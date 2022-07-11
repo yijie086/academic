@@ -12,7 +12,7 @@ image:
 
 The School of Physics holds a sharing meeting for seniors' learning experience.
 
-<img src="lll.png" alt="s" style="zoom:30%;" />
+<img src="lll.png" alt="s" style="zoom:100%;" />
 
 On the evening of November 4th, the learning experience exchange and sharing meeting of the seniors of the School of Physics gave a wonderful lecture in the Dongsan Lecture Hall. Five 2018, 2019 and 2020 National Scholarship recipients from the School of Physics shared their experiences in academic planning and study methods with the students. This experience exchange and sharing meeting is the first lecture of a series of activities of the "Understanding Reason and Skills" student's academic and development guidance project.
 
