@@ -3,11 +3,6 @@ role: Student of Physics
 avatar_filename: avatar.jpg
 bio: Phyiscs is interesting!
 interests:
-  - High energy physics
-  - Theoretical physics
-  - Particle physics
-  - Gravity Wave
-  - Numerical simulation
   - My research interests are broad!
 social: []
 organizations:
