@@ -47,7 +47,7 @@ experience:
     location: Hefei
     date_start: '2019-09-01'
     date_end: ''
-    description: 'Learning physics, majoring in theoretical physics.'
+    description: 'Learning physics, majoring in physics.'
 
   - title: Senior High Student
     company: Chengdu Shude High School
