@@ -2,7 +2,7 @@ I am the teaching assistant for the following courses:
 
 # Electrodynamics (2022 Spring)
 
-Instructor: Prof. Haijun Pan
+Professor: Prof. Haijun Pan
 
 A course aims to further understanding of electromagnetic field, covering Maxwell’s equations, conservation laws, electrostatics, magnetostatics, wave propagation in media, retarded potentials and radiation, scattering, and special relativity.
 
@@ -17,7 +17,7 @@ Textbook:
 
 # Theoreticial Mechanics A (2021 Fall)
 
-Instructor: Prof. Haijun Pan
+Professor: Prof. Haijun Pan
 
 Classical mechanics describes the motion of macroscopic objects. In this course, based on the energy of the system or the other physical quantity with dimension of energy, the mechanical motion of objects is investigated through analytic methods, such as calculus of variations. Its theoretical basis is the Newtonian mechanics. This course focuses on the analytical mechanics and motion of rigid body. The main contents include the principle of minimum action, Lagrangian mechanics, Hamiltonian mechanics, motion in central forces, dispersion by a center of force, small harmonic oscillation, and motion of rigid body.
 
