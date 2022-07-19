@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2021-12-17"
-  description: ""
+  description: "Highest honors of an academic year!"
   organization: Ministry of Education of the People's Republic of China
   title: National Scholarship
 - date_start: "2021-09-01"
@@ -48,7 +48,7 @@ item:
   organization: USTC
   title: Scholarship for Yan Jici Sci-Tech Elite Class of Physics
 - date_start: "2019-09-01"
-  description: ""
+  description: "Highest honors for a freshman."
   organization: USTC
   title: Gold Award for  Outstanding Freshman Scholarship
 ---
