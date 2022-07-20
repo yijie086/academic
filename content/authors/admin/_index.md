@@ -19,7 +19,7 @@ education:
 superuser: true
 highlight_name: false
 title: Yijie Wang
-email: "yjwang@mail.ustc.edu.cn"
+email: yjwang@mail.ustc.edu.cn
 ---
 My name is Yijie WANG (王一杰).
 
