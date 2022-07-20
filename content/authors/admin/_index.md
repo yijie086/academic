@@ -54,8 +54,6 @@ Majoring GPA: 4.11/4.30
 
 <img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/GPA.png?raw=true" width="80%">
 
-![](GPA.png)
-
 ### Standardized Test
 
 TOEFL iBT : 108=29R+30L+22S+27W.
