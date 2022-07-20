@@ -45,8 +45,12 @@ My favorite quote right now is:
 
 Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.  
                                                           --Albus Percival Wulfric Brian Dumbledore
-                                                          
-### Standardized test
+
+### Graph of GPA
+
+![GPA](GPA.png)
+
+### Standardized Test
 
 TOEFL iBT : 108=29R+30L+22S+27W.
 
