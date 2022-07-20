@@ -48,7 +48,8 @@ Dark and difficult times lie ahead , soon we must all face the choice between wh
 
 ### Graph of GPA
 
-![GPA](GPA.png)
+Overall GPA: 4.00/4.30  (Ranking:9/285)
+Majoring GPA: 4.11/4.30
 
 ### Standardized Test
 
