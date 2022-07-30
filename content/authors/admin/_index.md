@@ -48,9 +48,9 @@ Dark and difficult times lie ahead , soon we must all face the choice between wh
 
 ### Graph of GPA
 
-Overall GPA: 4.00/4.30  (Ranking:9/285)
+Overall GPA: 4.00/4.30 (or 3.90/4.00)  (Ranking:9/285)
 
-Majoring GPA: 4.11/4.30
+Majoring GPA: 4.11/4.30 (or 3.96/4.00)
 
 <img src="https://raw.githubusercontent.com/ustcyjwang/academic/master/content/authors/admin/gpa.png" width="80%">
 
