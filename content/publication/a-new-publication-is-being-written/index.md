@@ -1,5 +1,5 @@
 ---
-title: A new publication is being written .
+title: A new publication is being written
 publication_types:
   - "2"
 authors:
