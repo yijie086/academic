@@ -33,10 +33,6 @@ contact_links:
       icon_pack: fas
       name: yjwang@mail.ustc.edu.cn
       link: 'yjwang@mail.ustc.edu.cn'
-    - icon: envelope
-      icon_pack: fas
-      name: yw165@rice.edu
-      link: 'yw165@rice.edu'
 
 
 # Site header
