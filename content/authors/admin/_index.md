@@ -47,13 +47,16 @@ My favorite quote right now is:
 Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.  
                                                           --Albus Percival Wulfric Brian Dumbledore
 -->
-### Graph of GPA
+
+### Amazing Simulation and Experimental Results!
+
+<img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/ring.GIF" width="40%">
+
+### GPA
 
 Overall GPA: 4.00/4.30 (Ranking:7/300)
 
 Majoring GPA: 4.11/4.30
-
-<img src="https://raw.githubusercontent.com/ustcyjwang/academic/master/content/authors/admin/gpa.png" width="80%">
 
 ### Standardized Test
 
