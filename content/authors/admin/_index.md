@@ -48,10 +48,6 @@ Dark and difficult times lie ahead , soon we must all face the choice between wh
                                                           --Albus Percival Wulfric Brian Dumbledore
 -->
 
-### Amazing Simulation and Experimental Results!
-
-<img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/ring.GIF" width="40%">
-
 ### GPA
 
 Overall GPA: 4.00/4.30 (Ranking:7/300)
@@ -63,3 +59,7 @@ Majoring GPA: 4.11/4.30
 TOEFL iBT : 108=29R+30L+22S+27W.
 
 TOEFL iBT (My best) : 109=30R+30L+22S+27W.
+
+### Amazing Simulation and Experimental Results!
+
+<img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/ring.GIF" width="40%">
