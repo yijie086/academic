@@ -62,4 +62,4 @@ TOEFL iBT (My best) : 109=30R+30L+22S+27W.
 
 ### Amazing Simulation and Experimental Results!
 
-<img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/ring.GIF" width="40%">
+<img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/focus.GIF" width="60%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/phase.GIF" width="60%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/woliu.GIF" width="60%"><img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/ring.GIF" width="60%">
