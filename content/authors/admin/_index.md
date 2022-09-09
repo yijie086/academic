@@ -31,7 +31,7 @@ A member of Yan Jici Sci-Tech Elite Class of Physics.
 
 ### Teaching Assistant
 
-If you are interested in my teaching assistant works, please click [here](https://yijiewang.netlify.app/courses/)!
+If you are interested in my acclaimed teaching assistantship, click [here](https://yijiewang.netlify.app/courses/)!
 
 <!--### My wishes
 
