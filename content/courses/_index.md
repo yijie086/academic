@@ -15,6 +15,12 @@ Textbook:
 
 [Homepage of Electrodynamics](http://staff.ustc.edu.cn/~phj/ED/ED.htm)
 
+## Student Evaluation
+
+"Yijie and Yesun teaching assistants are patient and responsible, which benefited me a lot."
+
+"The exercises taught by teaching assistant Yijie this semester are really good, and I feel very useful."
+
 # Theoreticial Mechanics A (2021 Fall)
 
 Professor: Prof. Haijun Pan
@@ -28,3 +34,9 @@ Textbook:
 - Mechanics: Volume 1, L.D. Landau and E.M. Lifshitz, Butterworth-Heinemann
 
 [Homepage of Theoretical Mechanics A](http://staff.ustc.edu.cn/~phj/mechanics/mechanics.htm)
+
+## Student Evaluation
+
+"Yijie is my god! ps What class you will take next semester can be posted in advance, I can study with you!"
+
+"The two teaching assistants are very good, high-level, and patient in answering. Special thanks to the teachers and teaching assistants!"
