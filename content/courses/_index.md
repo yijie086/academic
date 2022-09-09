@@ -15,7 +15,9 @@ Textbook:
 
 [Homepage of Electrodynamics](http://staff.ustc.edu.cn/~phj/ED/ED.htm)
 
-## Student Evaluation
+## Students Evaluation
+
+###Comment
 
 "Yijie and Yesun teaching assistants are patient and responsible, which benefited me a lot."
 
@@ -35,7 +37,13 @@ Textbook:
 
 [Homepage of Theoretical Mechanics A](http://staff.ustc.edu.cn/~phj/mechanics/mechanics.htm)
 
-## Student Evaluation
+## Students Evaluation
+
+###Score
+
+4.92/5.00
+
+###Comment
 
 "Yijie is my god! ps What class you will take next semester can be posted in advance, I can study with you!"
 
