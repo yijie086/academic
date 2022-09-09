@@ -50,7 +50,7 @@ Dark and difficult times lie ahead , soon we must all face the choice between wh
 
 ### Amazing Simulation and Experimental Results!
 
-<img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/ring.GIF" width="40%">
+<img src="https://github.com/ustcyjwang/academic/raw/master/content/authors/admin/focus.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/phase.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/woliu.GIF" width="40%"><img src="https://github.com/ustcyjwang/academic/blob/master/content/authors/admin/ring.GIF" width="40%">
 
 ### GPA
 
