@@ -3,7 +3,7 @@ title: A new publication is being written
 publication_types:
   - "2"
 authors:
-  - Yijie
+  - Yi-jie_Wang
 draft: false
 featured: false
 image:
