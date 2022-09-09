@@ -31,6 +31,8 @@ A member of Yan Jici Sci-Tech Elite Class of Physics.
 
 ### Teaching Assistant
 
+I am the teaching assistant for Electrodynamics (2022 Spring) and Theoreticial Mechanics A (2021 Fall).
+
 If you are interested in my acclaimed teaching assistantship, click [here](https://yijiewang.netlify.app/courses/)!
 
 <!--### My wishes
