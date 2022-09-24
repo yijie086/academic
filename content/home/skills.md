@@ -28,6 +28,12 @@ feature:
   icon: plus
   icon_pack: fas
   name: MATLAB
+- description:
+  icon: calculator
+  icon_pack: fas
+  name: Mathematica
+
+
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
