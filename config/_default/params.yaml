@@ -133,7 +133,7 @@ map:
   zoom: 15
 marketing:
   analytics:
-    google_tag_manager: 'G-KTZ1NPF11D'
+    google_analytics: 'G-KTZ1NPF11D'
 cms:
   branch: master
   local_backend: false
