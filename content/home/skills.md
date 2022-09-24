@@ -37,10 +37,6 @@ feature:
   icon_pack: fab
   name: Markdown
 - description:
-  icon: integral
-  icon_pack: fab
-  name: LaTeX
-- description:
   icon: code
   icon_pack: fas
   name: ROOT6
