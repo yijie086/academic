@@ -56,6 +56,10 @@ feature:
   icon: windows
   icon_pack: fab
   name: Windows
+- description:
+  icon: square-terminal
+  icon_pack: fab
+  name: Remote Service
 
 
 # Uncomment to use emoji icons.
