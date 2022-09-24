@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: C
+  icon: code
   icon_pack: fab
   name: C/C++
 - description: 100%
