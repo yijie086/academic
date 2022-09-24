@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description:
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: C/C++
 - description: 100%
   icon: chart-line
