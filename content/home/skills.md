@@ -1,3 +1,5 @@
+widget: featurette
+headless: true
 feature:
   - icon: r-project
     icon_pack: fab
