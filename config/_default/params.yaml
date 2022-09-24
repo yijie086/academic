@@ -28,6 +28,9 @@ address:
   postcode: '230026'
   country: China
   country_code: CN
+coordinates:
+  latitude: '31.8220'
+  longitude: '117.2806'
 contact_links:
     - icon: envelope
       icon_pack: fas
@@ -37,9 +40,6 @@ contact_links:
       icon_pack: fab
       name: Yijie_Wang's_Repositories 
       link: 'https://github.com/ustcyjwang'
-coordinates:
-  latitude: '31.8220'
-  longitude: '117.2806'
 
 
 # Site header
