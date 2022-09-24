@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: file-plus-minus
+  icon: function
   icon_pack: fab
   name: MATLAB
 
