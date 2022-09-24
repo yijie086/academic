@@ -20,14 +20,14 @@ feature:
   icon: code
   icon_pack: fas
   name: C/C++
-- description: 100%
-  icon: chart-line
+- description:
+  icon: python
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Python
+- description:
+  icon: file-plus-minus
   icon_pack: fas
-  name: Photography
+  name: MATLAB
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
