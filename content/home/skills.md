@@ -22,11 +22,11 @@ feature:
   name: C/C++
 - description:
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description:
   icon: file-plus-minus
-  icon_pack: fas
+  icon_pack: fab
   name: MATLAB
 
 # Uncomment to use emoji icons.
