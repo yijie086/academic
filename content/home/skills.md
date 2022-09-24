@@ -38,8 +38,8 @@ feature:
   name: Markdown
 - description:
   icon: integral
-  icon_pack: fas
-  name: MATLAB
+  icon_pack: fab
+  name: LaTeX
 - description:
   icon: code
   icon_pack: fas
