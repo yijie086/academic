@@ -26,7 +26,7 @@ feature:
   name: Python
 - description:
   icon: function
-  icon_pack: fab
+  icon_pack: fas
   name: MATLAB
 
 # Uncomment to use emoji icons.
