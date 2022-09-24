@@ -33,7 +33,6 @@ contact_links:
       icon_pack: fas
       name: yjwang@mail.ustc.edu.cn
       link: 'yjwang@mail.ustc.edu.cn'
-contact_links:
     - icon: github
       icon_pack: fab
       name: Yijie_Wang's_Repositories 
