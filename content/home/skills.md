@@ -37,6 +37,10 @@ feature:
   icon_pack: fab
   name: Markdown
 - description:
+  icon: integral
+  icon_pack: fas
+  name: MATLAB
+- description:
   icon: code
   icon_pack: fas
   name: ROOT6
@@ -62,7 +66,7 @@ feature:
   name: Windows
 - description:
   icon: terminal
-  icon_pack: fab
+  icon_pack: fas
   name: Remote Service
 
 
