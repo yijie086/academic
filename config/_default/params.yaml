@@ -29,8 +29,8 @@ address:
   country: China
   country_code: CN
 coordinates:
-  latitude: '31.8220'
-  longitude: '117.2806'
+  latitude: '31.8414'
+  longitude: '117.2698'
 contact_links:
     - icon: envelope
       icon_pack: fas
