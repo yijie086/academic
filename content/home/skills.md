@@ -33,6 +33,10 @@ feature:
   icon_pack: fas
   name: Mathematica
 - description:
+  icon: markdown
+  icon_pack: fas
+  name: Markdown
+- description:
   icon: code
   icon_pack: fas
   name: ROOT6
@@ -58,7 +62,7 @@ feature:
   name: Windows
 - description:
   icon: square-terminal
-  icon_pack: fab
+  icon_pack: fas
   name: Remote Service
 
 
