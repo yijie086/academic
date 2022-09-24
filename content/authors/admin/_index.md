@@ -56,7 +56,7 @@ Dark and difficult times lie ahead , soon we must all face the choice between wh
 
 ### GPA
 
-Overall GPA: 4.00/4.30 (Ranking:7/300)
+Overall GPA: 4.00/4.30 (Ranking:9/296)
 
 Majoring GPA: 4.11/4.30
 
