@@ -37,6 +37,9 @@ contact_links:
       icon_pack: fab
       name: Yijie_Wang's_Repositories 
       link: 'https://github.com/ustcyjwang'
+coordinates:
+  latitude: '31.8220'
+  longitude: '117.2806'
 
 
 # Site header
