@@ -32,7 +32,22 @@ feature:
   icon: calculator
   icon_pack: fas
   name: Mathematica
-
+- description:
+  icon: code
+  icon_pack: fas
+  name: ROOT6
+- description:
+  icon: code
+  icon_pack: fas
+  name: PYTHIA8
+- description:
+  icon: code
+  icon_pack: fas
+  name: Open-MPI
+- description:
+  icon: apple
+  icon_pack: fas
+  name: macOS
 
 
 # Uncomment to use emoji icons.
