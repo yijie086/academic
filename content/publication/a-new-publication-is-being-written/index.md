@@ -1,11 +1,13 @@
 ---
 title: "Excited oscillons: cascading levels and higher multipoles"
+subtitle: https://arxiv.org/abs/2210.04969
 publication_types:
   - "2"
 authors:
   - Yi-Jie Wang
   - Qi-Xin Xie
   - Shuang-Yong Zhou
+doi: ""
 abstract: Two types of excited oscillons are investigated. We first focus on
   spherical symmetry and find that there are a tower of spherical oscillons with
   higher energies. Despite having multiple approximate "nodes" in their energy
