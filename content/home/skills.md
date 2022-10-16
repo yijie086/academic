@@ -49,21 +49,9 @@ feature:
   icon_pack: fas
   name: Open-MPI
 - description:
-  icon: apple
-  icon_pack: fab
-  name: macOS
-- description:
   icon: linux
   icon_pack: fab
   name: Linux
-- description:
-  icon: windows
-  icon_pack: fab
-  name: Windows
-- description:
-  icon: terminal
-  icon_pack: fas
-  name: Remote Service
 
 
 # Uncomment to use emoji icons.
