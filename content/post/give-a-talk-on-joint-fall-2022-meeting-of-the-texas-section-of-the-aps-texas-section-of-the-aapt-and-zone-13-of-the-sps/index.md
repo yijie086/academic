@@ -1,5 +1,5 @@
 ---
-title: Give a talk on Joint Fall 2022 Meeting of the Texas Section of the APS,
+title: Give a talk at Joint Fall 2022 Meeting of the Texas Section of the APS,
   Texas Section of the AAPT, and Zone 13 of the SPS
 subtitle: "Session L03.00004: A TeV Muon-Ion Collider at BNL and its Physics Potential"
 date: 2022-10-16T03:01:57.188Z
