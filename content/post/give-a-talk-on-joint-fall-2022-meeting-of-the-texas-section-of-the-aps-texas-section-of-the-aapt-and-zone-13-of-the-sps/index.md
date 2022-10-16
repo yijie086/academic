@@ -12,6 +12,8 @@ image:
 ---
 https://meetings.aps.org/Meeting/TSF22/Session/L03.4
 
+Saturday, October 15, 2022, Rice University BRC Room: 280
+
 **Presenter:**
 Yijie Wang 
 
