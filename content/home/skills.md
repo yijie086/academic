@@ -37,18 +37,6 @@ feature:
   icon_pack: fab
   name: Markdown
 - description:
-  icon: code
-  icon_pack: fas
-  name: ROOT6
-- description:
-  icon: code
-  icon_pack: fas
-  name: PYTHIA8
-- description:
-  icon: code
-  icon_pack: fas
-  name: Open-MPI
-- description:
   icon: linux
   icon_pack: fab
   name: Linux
