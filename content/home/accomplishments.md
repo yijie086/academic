@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2021-12-17"
-  description: "Highest honors of an undergraduate!"
+  description: "Highest honors for an undergraduate!"
   organization: Ministry of Education of the People's Republic of China
   title: National Scholarship
 - date_start: "2021-09-01"
