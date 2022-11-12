@@ -4,6 +4,7 @@ avatar_filename: avatar.jpg
 bio: Phyiscs is interesting!
 interests:
   - HEP
+  - Cosmology
 social: []
 organizations:
   - name: University of Science and Technology of China
