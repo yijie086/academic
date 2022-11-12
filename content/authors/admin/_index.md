@@ -39,14 +39,10 @@ On the eve of this change in physics, I hope that I can engage in research in hi
 
 ### Quote
 
-When life realizes the existence of the mysteries of the universe, it is only one step away from finally unraveling the mystery.
-
-Cixin Liu
+When life realizes the existence of the mysteries of the universe, it is only one step away from finally unraveling the mystery.  --Cixin Liu
 
 
-Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.
-
-Albus Percival Wulfric Brian Dumbledore
+Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.  --Albus Percival Wulfric Brian Dumbledore
 
 ### GPA
 
