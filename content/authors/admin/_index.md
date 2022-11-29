@@ -11,12 +11,12 @@ organizations:
     url: https://www.ustc.edu.cn
 education:
   courses:
-    - course: Senior high
-      institution: Chengdu Shude High School
-      year: 2016
     - course: Undergraduate
       institution: University of Science and Technology fo China
       year: 2019
+    - course: Senior high
+      institution: Chengdu Shude High School
+      year: 2016
 superuser: true
 highlight_name: false
 title: Yijie Wang
