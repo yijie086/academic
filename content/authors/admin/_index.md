@@ -3,7 +3,7 @@ role: Student of Physics
 avatar_filename: avatar.jpg
 bio: Phyiscs is interesting!
 interests:
-  - HEP
+  - High Energy Physics
   - Cosmology
 social: []
 organizations:
