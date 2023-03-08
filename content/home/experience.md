@@ -20,7 +20,7 @@ experience:
   - title: 'Graduate Student'
     company: Massachusetts Institute of Technology
     company_url: ''
-    location: Boston
+    location: Cambrigde
     date_start: '2023-09-01'
     date_end: ''
     description: ''
