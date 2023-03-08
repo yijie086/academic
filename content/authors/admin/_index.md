@@ -12,7 +12,7 @@ organizations:
 education:
   courses:
     - course: Undergraduate
-      institution: University of Science and Technology fo China
+      institution: University of Science and Technology of China
       year: 2019
     - course: Senior high
       institution: Chengdu Shude High School
