@@ -17,6 +17,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Graduate Student'
+    company: Massachusetts Institute of Technology
+    company_url: ''
+    location: Boston
+    date_start: '2023-09-01'
+    date_end: ''
+    description: ''
+    
   - title: 'Visiting Research Student'
     company: Rice
     company_url: ''
@@ -24,29 +32,13 @@ experience:
     date_start: '2022-08-15'
     date_end: '2022-12-30'
     description: 'Visiting student. Carried a study on the TeV-scale MuIC.'
-
-  - title: 'Teaching Assistant for Electrodynamics'
-    company: USTC
-    company_url: ''
-    location: Hefei
-    date_start: '2022-02-01'
-    date_end: '2022-06-25'
-    description: 'For details, see courses.'
-
-  - title: 'Teaching Assistant for Theoretical Mechanics'
-    company: USTC
-    company_url: ''
-    location: Hefei
-    date_start: '2021-09-01'
-    date_end: '2022-01-10'
-    description: 'For details, see courses.'
     
   - title: 'Undergraduate Student'
     company: USTC
     company_url: ''
     location: Hefei
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: 'Majoring in physics.'
 
   - title: Senior High Student
