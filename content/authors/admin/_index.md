@@ -12,7 +12,7 @@ education:
   courses:
     - course: Graduate
       institution: Massachusetts Institute of Technology
-      year: 2019-2023
+      year: 2023-
     - course: Undergraduate
       institution: University of Science and Technology of China
       year: 2019-2023
@@ -22,7 +22,7 @@ education:
 superuser: true
 highlight_name: false
 title: Yijie Wang
-email: yjwang@mail.ustc.edu.cn
+email: yijie086@mit.edu
 ---
 My name is Yijie WANG (王一杰).
 
