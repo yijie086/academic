@@ -1,6 +1,6 @@
 ## I was the teaching assistant for the following courses:
 
-# Electrodynamics (2022 Spring)
+# Electrodynamics (2022 Spring, USTC)
 
 Professor: Prof. Haijun Pan
 
@@ -27,7 +27,7 @@ Textbook:
 
 "The exercises taught by teaching assistant Yijie this semester are really good, and I feel very useful."
 
-# Theoreticial Mechanics A (2021 Fall)
+# Theoreticial Mechanics A (2021 Fall, USTC)
 
 Professor: Prof. Haijun Pan
 
