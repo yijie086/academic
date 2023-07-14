@@ -4,19 +4,21 @@ avatar_filename: avatar.jpg
 bio: Phyiscs is interesting!
 interests:
   - High Energy Physics
-  - Cosmology
 social: []
 organizations:
-  - name: University of Science and Technology of China
-    url: https://www.ustc.edu.cn
+  - name: Massachusetts Institute of Technology
+    url: https://web.mit.edu/
 education:
   courses:
+    - course: Graduate
+      institution: Massachusetts Institute of Technology
+      year: 2019-2023
     - course: Undergraduate
       institution: University of Science and Technology of China
-      year: 2019
+      year: 2019-2023
     - course: Senior high
       institution: Chengdu Shude High School
-      year: 2016
+      year: 2016-2019
 superuser: true
 highlight_name: false
 title: Yijie Wang
