@@ -23,6 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_start: "2023-7-1"
+  description: "Top 5% in USTC"
+  organization: USTC
+  title: Bachelor of Science with Honors
 - date_start: "2021-12-17"
   description: "Highest honors for an undergraduate student!"
   organization: Ministry of Education of the People's Republic of China
