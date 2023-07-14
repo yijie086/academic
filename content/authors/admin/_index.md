@@ -24,11 +24,9 @@ email: yjwang@mail.ustc.edu.cn
 ---
 My name is Yijie WANG (王一杰).
 
-An undergraduate student in USTC(University of Science and Technology of China).
+A graduate student in MIT (Massachusetts Institute of Technology).
 
-A student in the School of Physical Sciences.
-
-A member of Yan Jici Sci-Tech Elite Class of Physics.
+A student in the Department of Physics.
 
 ### My wishes
 
@@ -44,21 +42,8 @@ When life realizes the existence of the mysteries of the universe, it is only on
 
 Dark and difficult times lie ahead , soon we must all face the choice between what is right and what is easy.  --Albus Percival Wulfric Brian Dumbledore
 
-### GPA
-
-Overall GPA: 4.00/4.30 (Ranking:9/296)
-
-Majoring GPA: 4.11/4.30
-
 ### Teaching Assistant
 
-I am the teaching assistant for Electrodynamics (2022 Spring) and Theoreticial Mechanics A (2021 Fall).
+I am the teaching assistant for Electrodynamics (2022 Spring, USTC) and Theoreticial Mechanics A (2021 Fall, USTC).
 
 If you are interested in my acclaimed teaching assistantship, click [here](https://yijiewang.netlify.app/courses/)!
-
-### Standardized Test
-
-TOEFL iBT : 108=29R+30L+22S+27W.
-
-TOEFL iBT (My best) : 109=30R+30L+22S+27W.
-
