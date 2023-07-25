@@ -1,6 +1,6 @@
 ---
 title: "Excited oscillons: cascading levels and higher multipoles"
-subtitle: https://arxiv.org/abs/2210.04969
+subtitle: ""
 publication_types:
   - "2"
 authors:
