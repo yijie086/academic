@@ -27,6 +27,10 @@ item:
   description: "Top 5% student in USTC"
   organization: USTC
   title: Bachelor of Science with Honors
+- date_start: "2022-09-01"
+  description: ""
+  organization: USTC
+  title: Scholarship for Yan Jici Talent Program in Physics
 - date_start: "2021-12-17"
   description: "Highest honors for an undergraduate student!"
   organization: Ministry of Education of the People's Republic of China
