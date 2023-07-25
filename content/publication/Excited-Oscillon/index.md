@@ -7,7 +7,9 @@ authors:
   - Yi-Jie Wang
   - Qi-Xin Xie
   - Shuang-Yong Zhou
-doi: ""
+doi: https://doi.org/10.1103/PhysRevD.108.025006
+publication: PHYSICAL REVIEW D
+publication_short: PRD
 abstract: Two types of excited oscillons are investigated. We first focus on
   spherical symmetry and find that there are a tower of spherical oscillons with
   higher energies. Despite having multiple approximate "nodes" in their energy
