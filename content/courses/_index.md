@@ -21,7 +21,7 @@ Textbook:
 
 4.87/5.00
 
-### Comment
+### Comments
 
 "Yijie and Yesun teaching assistants are patient and responsible, which benefited me a lot."
 
@@ -47,7 +47,7 @@ Textbook:
 
 4.82/5.00
 
-### Comment
+### Comments
 
 "Yijie is my god! ps What class you will take next semester can be posted in advance, I can study with you!"
 
