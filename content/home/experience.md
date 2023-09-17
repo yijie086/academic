@@ -18,7 +18,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'Graduate Student'
-    company: Massachusetts Institute of Technology
+    company: Massachusetts Institute of Technology (MIT)
     company_url: ''
     location: Cambridge
     date_start: '2023-09-01'
@@ -26,15 +26,15 @@ experience:
     description: ''
     
   - title: 'Visiting Research Student'
-    company: Rice
+    company: Rice University
     company_url: ''
     location: Houston
     date_start: '2022-08-15'
     date_end: '2022-12-30'
-    description: 'Visiting student. Carried a study on the TeV-scale MuIC.'
+    description: 'Visiting research student.'
     
   - title: 'Undergraduate Student'
-    company: USTC
+    company: University of Science and Technology of China (USTC)
     company_url: ''
     location: Hefei
     date_start: '2019-09-01'
