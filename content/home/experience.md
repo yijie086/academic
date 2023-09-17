@@ -31,7 +31,7 @@ experience:
     location: Houston
     date_start: '2022-08-15'
     date_end: '2022-12-30'
-    description: 'Visiting research student.'
+    description: ''
     
   - title: 'Undergraduate Student'
     company: University of Science and Technology of China (USTC)
@@ -39,7 +39,7 @@ experience:
     location: Hefei
     date_start: '2019-09-01'
     date_end: '2023-06-01'
-    description: 'Majoring in physics.'
+    description: ''
 
   - title: Senior High Student
     company: Chengdu Shude High School
@@ -47,5 +47,5 @@ experience:
     location: Chengdu
     date_start: '2016-09-01'
     date_end: '2019-07-01'
-    description: Got 696(Top 0.05%) in National College Entrance Examination.
+    description: Got 696(Top 0.05%) in the National College Entrance Examination.
 ---
