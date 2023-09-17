@@ -12,7 +12,7 @@ education:
   courses:
     - course: Graduate
       institution: Massachusetts Institute of Technology
-      year: 2023-
+      year: 2023-Present
     - course: Undergraduate
       institution: University of Science and Technology of China
       year: 2019-2023
