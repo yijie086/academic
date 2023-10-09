@@ -1,5 +1,5 @@
 ---
-role: Student of Physics
+role: Graduate Student
 avatar_filename: avatar.jpg
 bio: Phyiscs is interesting!
 interests:
