@@ -26,9 +26,7 @@ email: yijie086@mit.edu
 ---
 My name is Yijie WANG (王一杰).
 
-A graduate student in MIT (Massachusetts Institute of Technology).
-
-A student in the Department of Physics.
+A graduate student in the MIT Department of Physics.
 
 ### My wishes
 
