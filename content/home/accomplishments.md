@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - date_start: "2023-07-01"
   description: "Top 5% student in USTC"
-  organization: USTC
+  organization: University of Science and Technology of China
   title: Bachelor of Science with Honors
 # - date_start: "2022-09-01"
 #  description: ""
@@ -41,11 +41,11 @@ item:
 #  title: Scholarship for Yan Jici Talent Program in Physics
 - date_start: "2020-10-01"
   description: ""
-  organization: USTC
+  organization: University of Science and Technology of China
   title: Silver Award for Outstanding Student Scholarship
 - date_start: "2020-10-01"
   description: ""
-  organization: CPS
+  organization: Chinese Physical Society
   title: Team first prize for China Undergraduate Physics Tournament(National)
 # - date_start: "2020-09-01"
 #  description: ""
@@ -57,6 +57,6 @@ item:
 #  title: Scholarship for Yan Jici Talent Program in Physics
 - date_start: "2019-09-01"
   description: "Highest honors for a freshman."
-  organization: USTC
+  organization: University of Science and Technology of China
   title: Gold Award for Outstanding Freshman Scholarship
 ---
