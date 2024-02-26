@@ -133,7 +133,7 @@ map:
   zoom: 15
 marketing:
   analytics:
-    baidu_tongji: 'https://hm.baidu.com/hm.js?1ad23bacdeb21ee796c711dd30dd39a0'
+    baidu_tongji: '1ad23bacdeb21ee796c711dd30dd39a0'
 cms:
   branch: master
   local_backend: false
