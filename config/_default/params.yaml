@@ -133,7 +133,7 @@ map:
   zoom: 15
 marketing:
   analytics:
-    baidu_tongji: '1ad23bacdeb21ee796c711dd30dd39a0'
+    microsoft_clarity: 'l7zcia1d34'
 cms:
   branch: master
   local_backend: false
