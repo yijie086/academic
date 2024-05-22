@@ -8,7 +8,7 @@ authors:
   - Yi-Jie Wang
   - Qi-Xin Xie
   - Shuang-Yong Zhou
-doi: ""
+doi: https://doi.org/10.1007/s11433-023-2357-4
 publication: SCIENCE CHINA Physics, Mechanics & Astronomy
 publication_short: SCPMA
 abstract: Recently, it has been realized that in some systems internal space
