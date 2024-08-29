@@ -23,6 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_start: "2024-08-26"
+  description: ""
+  organization: The U.S. Department of Energy's Thomas Jefferson National Accelerator Facility
+  title: JSA GRADUATE FELLOWSHIP
 - date_start: "2023-07-01"
   description: "Top 5% student in USTC"
   organization: University of Science and Technology of China
