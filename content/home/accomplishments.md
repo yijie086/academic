@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2024-08-26"
-  description: ""
+  description: "https://www.jlab.org/news/releases/jefferson-lab-announces-2024-2025-jsa-graduate-fellowship-recipients"
   organization: The U.S. Department of Energy's Thomas Jefferson National Accelerator Facility
   title: JSA Graduate Fellowship
 - date_start: "2023-07-01"
