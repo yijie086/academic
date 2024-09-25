@@ -8,4 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+ During this year's Mid-Autumn Festival.
+
 ![](截屏2024-09-25-上午11.24.06.png)
