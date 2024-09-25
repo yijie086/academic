@@ -10,4 +10,4 @@ image:
 ---
 While watching the Perseid meteor shower, the northern sky suddenly lit up with the aurora.
 
-![](img_1410.jpeg)
+![](截屏2024-09-25-上午10.59.22.png)
