@@ -8,4 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
 ![](output.gif)
+
+On October 10, 2024, super strong aurora swept across the entire northern hemisphere, with the highest Kp value approaching 9!
