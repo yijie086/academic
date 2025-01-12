@@ -1,6 +1,6 @@
 ---
 role: Graduate Student
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.JPG
 bio: Phyiscs is interesting!
 interests:
   - High Energy Physics
