@@ -1,6 +1,6 @@
 ---
 role: Graduate Student
-avatar_filename: _dsc3911.jpeg
+avatar_filename: avatar.jpeg
 bio: Phyiscs is interesting!
 interests:
   - High Energy Physics
