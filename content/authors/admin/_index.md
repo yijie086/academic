@@ -27,9 +27,3 @@ highlight_name: false
 My name is Yijie WANG (王一杰).
 
 A graduate student in the MIT Department of Physics.
-
-<!--### Teaching Assistant
-
-I am the teaching assistant for Electrodynamics (2022 Spring, USTC) and Theoreticial Mechanics A (2021 Fall, USTC).
-
-If you are interested in my acclaimed teaching assistantship, click \[here](https://yijiewang.netlify.app/courses/)!-->
