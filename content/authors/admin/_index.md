@@ -1,6 +1,7 @@
 ---
+title: Yijie Wang
 role: Graduate Student
-avatar_filename: avatar.JPG
+avatar_filename: 31aae8f0-2c9f-4dc2-8cd7-5a99bf9a81fa.png
 bio: Phyiscs is interesting!
 interests:
   - High Energy Physics
@@ -19,10 +20,9 @@ education:
     - course: Senior high
       institution: Chengdu Shude High School
       year: 2016-2019
+email: yijie086@mit.edu
 superuser: true
 highlight_name: false
-title: Yijie Wang
-email: yijie086@mit.edu
 ---
 My name is Yijie WANG (王一杰).
 
