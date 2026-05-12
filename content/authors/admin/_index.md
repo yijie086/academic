@@ -2,7 +2,7 @@
 title: Yijie Wang
 role: Physics PhD. Candidate
 avatar_filename: avatar.png
-bio: Phyiscs is interesting!
+bio: ""
 interests:
   - High Energy Physics
 social: []
