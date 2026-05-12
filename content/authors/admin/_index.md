@@ -1,6 +1,6 @@
 ---
 title: Yijie Wang
-role: Graduate Student
+role: Physics PhD. Candidate
 avatar_filename: avatar.png
 bio: Phyiscs is interesting!
 interests:
