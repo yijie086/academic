@@ -1,7 +1,7 @@
 ---
 title: Yijie Wang
 role: Graduate Student
-avatar_filename: 31aae8f0-2c9f-4dc2-8cd7-5a99bf9a81fa.png
+avatar_filename: avatar.png
 bio: Phyiscs is interesting!
 interests:
   - High Energy Physics
