@@ -13,7 +13,7 @@ authors:
   - Dillon Leahy
   - Yaohang Li
   - Richard G. Milner
-  - Yi-Jie Wang
+  - Yijie Wang
 publication: arXiv preprint
 publication_short: arXiv:2608.27683
 url_pdf: https://arxiv.org/pdf/2608.27683
