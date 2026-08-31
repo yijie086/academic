@@ -4,7 +4,6 @@ publication_types:
   - "3"
 authors:
   - CLAS Collaboration
-  - Yi-Jie Wang
 publication: arXiv preprint
 publication_short: arXiv:2608.20585
 url_pdf: https://arxiv.org/pdf/2608.20585

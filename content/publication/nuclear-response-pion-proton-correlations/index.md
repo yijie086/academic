@@ -4,7 +4,6 @@ publication_types:
   - "2"
 authors:
   - CLAS Collaboration
-  - Yi-Jie Wang
 doi: https://doi.org/10.1016/j.physletb.2026.140250
 publication: Physics Letters B
 publication_short: Phys. Lett. B 874, 140250

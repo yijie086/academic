@@ -4,7 +4,6 @@ publication_types:
   - "2"
 authors:
   - CLAS Collaboration
-  - Yi-Jie Wang
 doi: https://doi.org/10.1103/1q5m-x849
 publication: Physical Review C
 publication_short: Phys. Rev. C 112, 065211
