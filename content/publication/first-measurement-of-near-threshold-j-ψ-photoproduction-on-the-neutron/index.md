@@ -4,7 +4,8 @@ publication_types:
   - "3"
 authors:
   - CLAS Collaboration
-publication: ""
+publication: arXiv preprint
+publication_short: arXiv:2609.03579
 draft: false
 featured: false
 image:
