@@ -6,6 +6,7 @@ authors:
   - CLAS Collaboration
 publication: arXiv preprint
 publication_short: arXiv:2609.03579
+url_pdf: https://arxiv.org/pdf/2609.03579
 draft: false
 featured: false
 image:
